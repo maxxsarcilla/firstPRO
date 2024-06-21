@@ -1,0 +1,14 @@
+C:\Users\nicole\PRO\firstPRO\bin\Debug\net8.0\firstPRO.exe
+C:\Users\nicole\PRO\firstPRO\bin\Debug\net8.0\firstPRO.deps.json
+C:\Users\nicole\PRO\firstPRO\bin\Debug\net8.0\firstPRO.runtimeconfig.json
+C:\Users\nicole\PRO\firstPRO\bin\Debug\net8.0\firstPRO.dll
+C:\Users\nicole\PRO\firstPRO\bin\Debug\net8.0\firstPRO.pdb
+C:\Users\nicole\PRO\firstPRO\obj\Debug\net8.0\firstPRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicole\PRO\firstPRO\obj\Debug\net8.0\firstPRO.AssemblyInfoInputs.cache
+C:\Users\nicole\PRO\firstPRO\obj\Debug\net8.0\firstPRO.AssemblyInfo.cs
+C:\Users\nicole\PRO\firstPRO\obj\Debug\net8.0\firstPRO.csproj.CoreCompileInputs.cache
+C:\Users\nicole\PRO\firstPRO\obj\Debug\net8.0\firstPRO.dll
+C:\Users\nicole\PRO\firstPRO\obj\Debug\net8.0\refint\firstPRO.dll
+C:\Users\nicole\PRO\firstPRO\obj\Debug\net8.0\firstPRO.pdb
+C:\Users\nicole\PRO\firstPRO\obj\Debug\net8.0\firstPRO.genruntimeconfig.cache
+C:\Users\nicole\PRO\firstPRO\obj\Debug\net8.0\ref\firstPRO.dll
